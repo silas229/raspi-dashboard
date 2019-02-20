@@ -1,7 +1,7 @@
 # raspi-dashboard
 Web dashboard for your local network
 
-![Screenshot](../raw/master/screenshot.png)
+![Screenshot](../master/screenshot.png)
 
 ## Features
 * Fully customizable buttons for your services (color, icon, URL, additional CSS)

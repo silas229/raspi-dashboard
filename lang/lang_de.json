@@ -1,0 +1,19 @@
+{
+	"language": {
+		"label": "Sprache",
+		"other": {
+			"en": "Englisch",
+			"fr": "Französisch",
+			"es": "Spanisch"
+		},
+		"code": {
+			"long": "de_DE",
+			"short": "de",
+			"name": "Deutsch"
+		}
+	},
+	"search": {
+		"placeholder": "Suchen...",
+		"button": "Suche"
+	}
+}

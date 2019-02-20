@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+@import "../node_modules/bulma/bulma";
+@import "../node_modules/bulma-pageloader/src/sass/index";
+
+img.appicon {
+	max-height: 36px;
+	width: auto;
+	vertical-align: bottom;
+	margin-right: 4px;
+}
+
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1;
+}
+
+@import "services";

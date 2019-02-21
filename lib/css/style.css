@@ -9743,6 +9743,10 @@ img.appicon {
   margin-right: 4px;
 }
 
+html {
+  overflow-y: auto;
+}
+
 body {
   display: flex;
   min-height: 100vh;

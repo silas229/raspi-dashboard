@@ -7,6 +7,7 @@ Web dashboard for your local network
 * Fully customizable buttons for your services (color, icon, URL, additional CSS)
 * Search bar
 * Multi-language support using [PHP i18n](https://github.com/Philipp15b/php-i18n) (English, French, German and Spanish are included!)
+* Optional Dark mode
 * Change the search engine, footer text and much more!
 
 ## Setup

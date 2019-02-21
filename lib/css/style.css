@@ -9753,6 +9753,27 @@ main {
   flex: 1;
 }
 
+body.is-dark .hero {
+  opacity: 0.4;
+}
+body.is-dark main {
+  background-color: #232323;
+}
+body.is-dark .input,
+body.is-dark .button,
+body.is-dark .footer {
+  background-color: #3b3b3b;
+  color: white;
+  border-color: #5a5a5a;
+}
+body.is-dark .input::placeholder {
+  color: white;
+}
+
+body * {
+  transition: all 0.8s ease-in-out;
+}
+
 /*****************************************************
  * Copyright (c) 2019.
  * @author Silas_229 <contact@silas229.de>

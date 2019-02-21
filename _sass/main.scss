@@ -20,4 +20,31 @@ main {
 	flex: 1;
 }
 
+// Dark mode
+body.is-dark {
+	.hero {
+		opacity: .4;
+	}
+
+	main {
+		background-color: #232323;
+	}
+
+	.input,
+	.button,
+	.footer {
+		background-color: #3b3b3b;
+		color: white;
+		border-color: #5a5a5a;
+	}
+
+	.input::placeholder {
+		color: white;
+	}
+}
+
+body * {
+	transition: all .8s ease-in-out;
+}
+
 @import "services";

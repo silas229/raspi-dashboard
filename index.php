@@ -138,6 +138,7 @@ EOT;
 						</div>
 					</div>
 				</div>
+				<button onclick="document.getElementsByTagName('body')[0].classList.toggle('is-dark')" class="button is-pulled-right">Toggle Dark mode</button>
 			</div>
 		</div>
 	</div>

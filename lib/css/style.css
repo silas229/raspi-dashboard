@@ -9774,10 +9774,6 @@ body.is-dark .input::placeholder {
   color: white;
 }
 
-body * {
-  transition: all 0.8s ease-in-out;
-}
-
 /*****************************************************
  * Copyright (c) 2019.
  * @author Silas_229 <contact@silas229.de>

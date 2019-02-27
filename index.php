@@ -38,7 +38,6 @@ $i18n->init();
 	<meta name="og:type" content="website">
 	<meta name="robots" content="index, nofollow">
 	<meta name="language" content="<?php echo L::language_code_name ?>">
-	<meta name="author" content="Silas Meyer">
 	
 	<link rel="stylesheet" href="lib/css/style.min.css">
 </head>

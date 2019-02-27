@@ -15,5 +15,6 @@
 	"search": {
 		"placeholder": "Recherche...",
 		"button": "Recherche"
-	}
+	},
+	"dark_mode": "Basculer en mode sombre"
 }

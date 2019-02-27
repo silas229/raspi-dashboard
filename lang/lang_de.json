@@ -15,5 +15,6 @@
 	"search": {
 		"placeholder": "Suchen...",
 		"button": "Suche"
-	}
+	},
+	"dark_mode": "Dunklen Modus umschalten"
 }

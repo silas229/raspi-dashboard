@@ -15,5 +15,6 @@
 	"search": {
 		"placeholder": "Search...",
 		"button": "Search"
-	}
+	},
+	"dark_mode": "Toggle Dark mode"
 }

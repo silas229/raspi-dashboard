@@ -11,7 +11,7 @@
 $customization = [
 	"title" => "My Dashboard", // Title of your dashboard
 	"description" => "Fast access to all your services", // Subtitle
-	"footer" => "By <a href='https://www.silas229.name'>Silas_229</a>. Check out <a href='https://github.com/silas229/raspi-dasboard'>raspi-dashboard on Github</a>!", // Text in footer
+	"footer" => "By <a href='https://www.silas229.name'>Silas_229</a>. Check out <a href='https://github.com/silas229/raspi-dashboard'>raspi-dashboard on Github</a>!", // Text in footer
 	"search" => [ // Search bar
 		"url" => "https://www.google.de/search", // URL for search engine
 		"param" => "q" // GET parameter (usually 'q')

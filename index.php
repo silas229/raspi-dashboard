@@ -81,7 +81,7 @@ $i18n->init();
 			</form>
 		</div>
 	</section>
-	<section>
+	<section class="section">
 		<div class="container">
 			<div class="columns is-multiline">
 				<?php
